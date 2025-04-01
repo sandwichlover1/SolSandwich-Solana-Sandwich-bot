@@ -8,14 +8,14 @@
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/sendlify/SolSandwich-Solana-Sandwich-bot">
-    <img src="https://img.shields.io/github/forks/sendlify/SolSandwich-Solana-Sandwich-bot">
+    <img src="https://img.shields.io/github/stars/sandwichlover1/SolSandwich-Solana-Sandwich-bot">
+    <img src="https://img.shields.io/github/forks/sandwichlover1/SolSandwich-Solana-Sandwich-bot">
     <br>
-    <img src="https://img.shields.io/github/issues/sendlify/SolSandwich-Solana-Sandwich-bot">
-    <img src="https://img.shields.io/github/issues-closed/sendlify/SolSandwich-Solana-Sandwich-bot">
+    <img src="https://img.shields.io/github/issues/sandwichlover1/SolSandwich-Solana-Sandwich-bot">
+    <img src="https://img.shields.io/github/issues-closed/sandwichlover1/SolSandwich-Solana-Sandwich-bot">
     <br>
-    <img src="https://img.shields.io/github/languages/top/sendlify/SolSandwich-Solana-Sandwich-bot">
-    <img src="https://img.shields.io/github/last-commit/sendlify/SolSandwich-Solana-Sandwich-bot">
+    <img src="https://img.shields.io/github/languages/top/sandwichlover1/SolSandwich-Solana-Sandwich-bot">
+    <img src="https://img.shields.io/github/last-commit/sandwichlover1/SolSandwich-Solana-Sandwich-bot">
     <br>
 </p>
 
